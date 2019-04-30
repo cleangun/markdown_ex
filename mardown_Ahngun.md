@@ -13,6 +13,6 @@
 네이버 : <https://naver.com>
 
 ## 이미지
-![대체텍스트][./img/그림파일.jpg]
-## zhem
+![멍뭉이][./img/puppy.png]
+## 코드
 ....
